@@ -28,4 +28,7 @@
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Gert</a> Email: gertgart40@gmail.com</p>
+<p align="center">
+  📧 <a href="mailto:gertgart40@gmail.com">Email</a> •  
+  🐉 <a href="https://discord.gg/vXURSmaCmq" target="_blank">Discord</a>
+</p>
