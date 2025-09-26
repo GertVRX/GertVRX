@@ -1,6 +1,6 @@
 ## About Me
 
-👾 Hey, I’m Gert  
+👾 Hey, I’m Jaime  
 💻 I build **FiveM scripts**, tools, and random side projects  
 🤓 i like to fork stuff
 
@@ -23,10 +23,10 @@
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=GertVRX&theme=dark&show_icons=true&count_private=true">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=JaimeVRX&theme=dark&show_icons=true&count_private=true">
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=GertVRX&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=GertVRX&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=JaimeVRX&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=JaimeVRX&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ## Connect with me
 
